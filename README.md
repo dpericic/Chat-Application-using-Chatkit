@@ -1,4 +1,4 @@
-# RNChatkitDemo
+# React Native Chatkit App
 A simple chat app built with React Native and Chatkit which has the following features:
 
 -  Public and private chat rooms
